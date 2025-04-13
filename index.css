@@ -1,0 +1,27 @@
+body{
+    background-color:darkkhaki
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    background-color: aqua;
+}
+input{
+    width:300px;
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    width: 55px;
+    padding: 7px;
+    margin: 5px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: chocolate;
+   
+    
+    
+
+}
